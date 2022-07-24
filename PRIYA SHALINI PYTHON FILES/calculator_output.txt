@@ -1,0 +1,32 @@
+Python 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: D:/PYTHON FILES/calculator_python.py ================
+Select operation.
+1.Add
+2.Multiple
+Enter choice(1/2): 1
+Enter first number: 1
+Enter second number: 2
+Enter third number: 3
+Enter fourth number: 4
+1.0 + 2.0 + 3.0 + 4.0 = 10.0
+Enter choice(1/2): 1
+Enter first number: 1
+Enter second number: 1
+Enter third number: 1
+Enter fourth number: 1
+in given 4 numbers one number is also not even 
+Enter choice(1/2): 2
+Enter first number: 1
+Enter second number: 2
+Enter third number: 3
+Enter fourth number: 4
+1.0 * 2.0 * 3.0 * 4.0 = 24.0
+Enter choice(1/2): 2
+Enter first number: 1
+Enter second number: 1
+Enter third number: 1
+Enter fourth number: 1
+in given 4 numbers one number is also not even 
+Enter choice(1/2): 
